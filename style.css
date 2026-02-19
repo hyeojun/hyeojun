@@ -23,7 +23,7 @@ body {
 }
 
 h1 { margin: 0; }
-.sub { margin: 8px 0 0; color: #666; }
+.sub { margin: 8px 0 0; color: #555; }
 
 table {
   width: 100%;
@@ -44,3 +44,4 @@ img {
   border-radius: 12px;
   border: 1px solid #eee;
 }
+
