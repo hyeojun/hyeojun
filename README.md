@@ -4,7 +4,7 @@
 
 ## :computer: 사용 가능한 기술(Tech Stack)
 * **언어**: java, HTML, CSS, JavaScript, python
-* **도구**: git, git hub, V
+* **도구**: git, git hub, VS Code
 
 ## 취미
 * **:video_game: 게임** 을 좋아합니다.
