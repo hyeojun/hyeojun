@@ -3,7 +3,7 @@
 프로그래밍을 공부하고 있습니다.
 
 ## :computer: 사용 가능한 기술(Tech Stack)
-* **언어**: java, HTML, CSS, JavaScript, python
+* **언어**: Java, HTML, CSS, JavaScript, Python
 * **도구**: git, git hub, VS Code
 
 ## 취미
@@ -28,4 +28,4 @@
 2. 목록 2
 3. 목록 3
 
-[네이버](naver.com)
+[네이버](https://www.naver.com)
