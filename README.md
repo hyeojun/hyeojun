@@ -1,13 +1,13 @@
-# 홍여준 :smile:
-안녕하세요
+## 홍여준 :smile:
+저는 현재 성일정보고등학교 예비 도제반에서
+프로그래밍을 공부하고 있습니다.
 
-# 기술
-* 언어 java HTML CSS JavaScript python
-* 도구 git git hub
+## :computer: 사용 가능한 기술(Tech Stack)
+* **언어**: java, HTML, CSS, JavaScript, python
+* **도구**: git, git hub, V
 
-# git 명령어
-commit
-
+## 취미
+* **:video_game: 게임** 을 좋아합니다.
 ---
 
 # 제목 1
